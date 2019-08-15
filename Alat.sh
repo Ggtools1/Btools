@@ -71,4 +71,3 @@ sleep 3
 echo
 figlet -f slant Thanks to Download | lolcat
 echo
-zsh
